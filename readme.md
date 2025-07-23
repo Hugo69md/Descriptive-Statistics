@@ -63,11 +63,11 @@ This project contains various statistical analysis tools organized in the follow
 
 ## 🔬 Features
 
-- **Hypothesis Testing**: Comprehensive statistical hypothesis testing tools
-- **Distribution Analysis**: Normality tests, skewness analysis, and more
-- **Data Filtering**: Advanced data selection and filtering capabilities
-- **Statistical Visualization**: Integrated plotting and visualization tools
-- **Parametric & Non-parametric Tests**: Support for various statistical test types
+- **Distribution Analysis**: distribution function vaailable with hue
+- **Data Filtering**: Advanced data selection and filtering capabilities, removal of X% of outliers etc
+- **Statistical Visualization**: Integrated plotting and visualization tools (histogramm, lineplot, scatterplot, boxplots)
+- **Tailored statistical tools**: linear regression, hues, data directly on graphs
+
 
 ## 📋 Requirements
 
